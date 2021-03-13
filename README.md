@@ -19,7 +19,7 @@ from eb7calculator.calculator import add, sub, mul, div
 
 ## usage
 ```python
-from eb7calculato import calculator as calc
+from eb7calculator import calculator as calc
 
 calc.add(1,2)
 # output:3
